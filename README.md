@@ -3,7 +3,7 @@ Welcome to our official github organization, we love to share some of our projec
 
 ## Team
 
-@reapermaga
-@zoey-kaiser
+[ReaperMaga](https://github.com/reapermaga)
+[Zoey Kaiser](https://github.com/zoey-kaiser)
 
-@leVenour (Intern)
+[leVenour](https://github.com/leVenour) (Intern)
