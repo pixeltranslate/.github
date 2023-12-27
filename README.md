@@ -4,6 +4,7 @@ Welcome to our official github organization, we love to share some of our projec
 ## Team
 
 [ReaperMaga](https://github.com/reapermaga)
+
 [Zoey Kaiser](https://github.com/zoey-kaiser)
 
-[leVenour](https://github.com/leVenour) (Intern)
+[leVenour](https://github.com/leVenour)
